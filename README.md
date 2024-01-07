@@ -2,7 +2,7 @@
 Provides +/-5 power from USB power, KiCAD design files.
 
 ## Introduction
-This repository provides KiCAD files for a filtered +/-5V supply that I use with some of the precision instrumentation circuits that I build and use in my lab.  These are often operated by microcntrollers such as Arduino and Teensy that typically provide only +5V (USB) or 3.3V power.
+This repository provides KiCAD files for a filtered +/-5V supply that I use with some of the precision instrumentation circuits that I build and use in my lab.  These are often operated by microcontrollers such as Arduino and Teensy that typically provide only +5V (USB) or 3.3V power.
 While a lot can be done in designing for single ended supplies, there are some important instrumention circuits that inherently require a dual supply.
 
 In this design, the +5V supply is based on an LT1930 configured as a SEPIC converter to accomodate 
