@@ -13,3 +13,10 @@ In this design, the circuits are connected by jumpers to the input power connect
 Either supply can be turned off individually by removing the corresponding jumper which is located next to the 5V input.
 
 ![LT193n_+-5V_Supply](https://github.com/drmcnelson/Dual-pos-neg-5V-Supply-from-USB-power/assets/38619857/708b6ee7-3a98-4e26-a6b1-3268e7a2e2db)
+
+<br>
+## Obtaining board
+
+The board can be ordered, assembled, at
+
+<a href="https://www.pcbway.com/project/shareproject/Power_supply_5V_5V_for_the_SPI_Instrumentation_project_987508ee.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
